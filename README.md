@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Singh</h1>
 <h3 align="center">A passionate full-stack web developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/NZzo.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/one-saurabhsingh/one-saurabhsingh/blob/main/NZzo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=one-saurabhsingh&label=Profile%20views&color=0e75b6&style=flat" alt="one-saurabhsingh" /> </p>
 
