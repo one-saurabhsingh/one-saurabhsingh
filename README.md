@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Blockchain.**
 
-- 👯 I’m looking to collaborate on **web development projects.**
+- 👯 I’m looking to collaborate on **Web Development projects.**
 
-- 💬 Ask me about **anything related web development.**
+- 💬 Ask me about **anything related Web Development.**
 
 - 📫 How to reach me **one.saurabhsingh@gmail.com**
 
