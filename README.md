@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=one-saurabhsingh&label=Profile%20views&color=0e75b6&style=flat" alt="one-saurabhsingh" /> </p>
 
-- 🌱 I’m currently learning **Blockchain.**
+- 🌱 I’m currently learning **Data Structure & Algorithms.**
 
-- 👯 I’m looking to collaborate on **Web Development projects.**
+- 👥 I’m looking to collaborate on **Web Development projects.**
 
 - 💬 Ask me about **anything related Web Development.**
 
