@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **one.saurabhsingh@gmail.com**
 
-- ⚡ Fun fact **The people I grew up with influenced me by their mistakes.**
+- ⚡ Fun fact : **The people I grew up with influenced me by their mistakes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
