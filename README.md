@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sk-singh-bitmesra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-singh-bitmesra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sk-singh-bitmesra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-singh-bitmesra" height="30" width="40" />Saurabh Kumar Singh</a>
 <a href="https://codesandbox.com/saurabh270703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="saurabh270703" height="30" width="40" /></a>
 </p>
 
