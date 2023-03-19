@@ -26,6 +26,12 @@
 
 <hr>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=one-saurabhsingh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=one-saurabhsingh&border_radius=50&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr> 
