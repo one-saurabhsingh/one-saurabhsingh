@@ -2,7 +2,7 @@
 
 <hr size="4">
 <img align="right" alt="coding" width="400" src="https://github.com/one-saurabhsingh/one-saurabhsingh/blob/main/NZzo.gif">
-
+<p>&nbsp</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=one-saurabhsingh&label=Profile%20views&color=0e75b6&style=flat" alt="one-saurabhsingh" /> </p>
 
 - 🌱 I’m currently learning **Data Structure & Algorithms.**
