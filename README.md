@@ -21,7 +21,7 @@
 
 <hr>
 <br>
-<h2 align='center'><i><a href="https://github.com/one-saurabhsingh/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='left'><i><a href="https://github.com/one-saurabhsingh/github-readme-activity-graph">Activity Graph 📈 :- </i></h2>
 <p align="center">
 <a href="https://github.com/one-saurabhsingh/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=one-saurabhsingh&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
@@ -34,7 +34,7 @@
   <hr>
 
 
- ## <h2 align='center'> 🏆 GitHub Trophies </h2>
+ ##  🏆 GitHub Trophies 
  
  ![](https://github-profile-trophy.vercel.app/?username=one-saurabhsingh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
