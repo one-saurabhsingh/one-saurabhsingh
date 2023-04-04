@@ -34,8 +34,9 @@
   <hr>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=one-saurabhsingh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+ ## <h2 align='center'> 🏆 GitHub Trophies </h2>
+ 
+ ![](https://github-profile-trophy.vercel.app/?username=one-saurabhsingh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
 
