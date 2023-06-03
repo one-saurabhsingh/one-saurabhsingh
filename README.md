@@ -4,7 +4,7 @@
 - 👥 I’m looking to collaborate on **Web Development projects.**
 
 - 📫 How to reach me **one.saurabhsingh@gmail.com**
-<h3 align='left'><i>Connect With Me</i></h3>
+<h3 align='left'>Connect With Me</h3>
 <p align='left'>
  
 <table align='left'>
