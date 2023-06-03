@@ -1,7 +1,4 @@
 
-
-
-
 - 🌱 I’m currently learning **Data Structure & Algorithms.**
 
 - 👥 I’m looking to collaborate on **Web Development projects.**
@@ -46,19 +43,13 @@
   <br>
   <hr>
 
+<h3 align="left"> GitHub Trophies 🏆 :</h3>
 
- ##  🏆 GitHub Trophies 
  
- ![](https://github-profile-trophy.vercel.app/?username=one-saurabhsingh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+ ![](https://github-profile-trophy.vercel.app/?username=one-saurabhsingh&theme=gruvbox&no-frame=false&no-bg=true)
 
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=one-saurabhsingh&border_radius=50&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=one-saurabhsingh&border_radius=50&show_icons=true&theme=great-gatsby)
-
-<hr>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=one-saurabhsingh&theme=great-gatsby&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
+  <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=one-saurabhsingh&show_icons=true&theme=great-gatsby&border_radius=50" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=one-saurabhsingh&theme=great-gatsby&border_radius=50" width = 425 >
+</p>
