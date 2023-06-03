@@ -10,10 +10,10 @@
 - 👥 I’m looking to collaborate on **Web Development projects.**
 
 - 📫 How to reach me **one.saurabhsingh@gmail.com**
-<h3 align='center'><i>Connect With Me</i></h3>
-<p align='center'>
+<h3 align='left'><i>Connect With Me</i></h3>
+<p align='left'>
  
-<table width="100" align='center'>
+<table align='left'>
 <tr>
     <td align='center' width="60">
         <a href="https://twitter.com/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
@@ -28,8 +28,9 @@
 </table>
 
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<br>
+<h3 align="left">Languages and Tools :</h3>
 <p>
  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,express,jquery,nodejs,react,mysql,mongodb,postman,git,figma&perline=8)](https://skillicons.dev)
