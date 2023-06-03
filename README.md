@@ -10,10 +10,23 @@
 - 👥 I’m looking to collaborate on **Web Development projects.**
 
 - 📫 How to reach me **one.saurabhsingh@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sk-singh-bitmesra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-singh-bitmesra" height="30" width="40" /></a>
-<a href="https://codesandbox.com/saurabh270703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="saurabh270703" height="30" width="40" /></a>
+<h3 align='center'><i>Connect With Me</i></h3>
+<p align='center'>
+ 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://twitter.com/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/i_saurabh_singh/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/sk-singh-bitmesra/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+</tr>
+</table>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
