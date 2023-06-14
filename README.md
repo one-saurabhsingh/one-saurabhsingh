@@ -1,14 +1,16 @@
-
+<table width="1000%" >
+ <tr >
+  <td width="50%">
 - 🌱 I’m currently learning **Data Structure & Algorithms.**
 
 - 👥 I’m looking to collaborate on **Web Development projects.**
 
 - 📫 How to reach me **one.saurabhsingh@gmail.com**
-<h3 align='left'>Connect With Me</h3>
+<h3 align='center'>Connect With Me</h3>
 <p align='left'>
  
-<table align='left'>
-<tr>
+<table  align='center'>
+<tr border='none'>
     <td align='center' width="60">
         <a href="https://twitter.com/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
@@ -22,16 +24,18 @@
 </table>
 
 </p>
-<br>
-<br>
+ </td>
+<td >
 <h3 align="left">Languages and Tools :</h3>
 <p>
  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,express,jquery,nodejs,react,mysql,mongodb,postman,git,figma&perline=8)](https://skillicons.dev)
 </p>
+ </td>
+</tr>
+</table>
 <hr>
-<br>
-<h2 align='center'><i><a href="https://github.com/one-saurabhsingh/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=one-saurabhsingh&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
