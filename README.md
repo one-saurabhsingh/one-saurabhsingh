@@ -6,7 +6,7 @@
 <table width="1000%" >
  <tr >
   <td width="50%">
-- 🌱 I’m currently learning **Data Structure & Algorithms.**
+- 🌱 I’m currently learning <b>Data Structure & Algorithms</b>.
 
 - 👥 I’m looking to collaborate on **Web Development projects.**
 
